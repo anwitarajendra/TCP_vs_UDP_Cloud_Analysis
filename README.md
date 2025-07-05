@@ -38,7 +38,7 @@ Each combination was tested for both TCP and UDP.
 
 ## 📊 Sample Output (Graph)
 
-![TCP vs UDP Graph](tcp_udp_comparison.png)
+![TCP vs UDP Graph](graph.png)
 
 ## 💡 Conclusion
 
